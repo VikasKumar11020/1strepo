@@ -1,2 +1,3 @@
 # 1strepo
-my 1st git repo
+my 1st git repo <br>
+applied br tag
